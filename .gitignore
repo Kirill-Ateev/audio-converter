@@ -1,0 +1,11 @@
+node_modules
+
+# Игнорировать всё внутри input и output
+input/**/*
+output/**/*
+
+# Сохранить сами папки и файлы-маркеры
+!input/
+!input/.placeholder
+!output/
+!output/.placeholder

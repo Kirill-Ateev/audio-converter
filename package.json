@@ -1,0 +1,17 @@
+{
+  "name": "audio-converter",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "repository": "git@github.com:Kirill-Ateev/audio-converter.git",
+  "author": "<g810bAKO@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffmpeg/core": "0.12.6",
+    "@ffmpeg/ffmpeg": "0.12.8",
+    "@ffmpeg/libav": "^0.0.1-alpha.0",
+    "@ffmpeg/util": "^0.12.2",
+    "fluent-ffmpeg": "^2.1.3"
+  }
+}
